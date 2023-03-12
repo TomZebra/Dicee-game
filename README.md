@@ -15,3 +15,4 @@ By pressing refresh key both dice will reload their state thus proclaiming a win
 ## Contributing
 
 Pull requests are welcome.
+![Browser screen](https://user-images.githubusercontent.com/119517554/224556881-60ea06d8-42c7-47c4-a268-b13d0a92481b.PNG)
