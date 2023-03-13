@@ -4,7 +4,7 @@ Dicee game is a simple browser game using HTML css and JavaScript
 
 ## Installation
 
-Just download the files and copy the dicee.html path from VSCode to your browser address bar.
+Just download the files and copy the dicee.html path to your browser address bar.
 
 
 
